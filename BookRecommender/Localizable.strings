@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  BookRecommender
+
+  Created by Nora AlNashwan on 3/27/18.
+  Copyright © 2018 Nora AlNashwan. All rights reserved.
+*/
+// Twitter
+twitterKey="22oMYjy3g7P5BgyHv2JagfIzY";
+twitterSecret="itT5EeQbsLU0irTQdWp8T9sexSRtscAe5H4T2U1LPIG6J9r2cI";
+oauthToken="235526221-jHw7lwvUYEYXBiki4OM5CEL4B8zrhX7yWNMsrc06";
+oauthTokenSecret="eRr7ppCf93g5HZD3lFpaBDxbGFSw9J4amEor83mgUvQ55";
+
+
+// Personality Insight
+serviceUsername = "419f8571-149e-4914-9b07-dc2f43362109";
+servicePassword = "1XyFsAPqDWHR";
+version = "2018-03-28";
+
+urlString = "https://www.googleapis.com/books/v1/volumes?q=title:How%22to%22manage%22&lang=en-us&key=AIzaSyC4UONMTKJd0XPb5zuXDrN1FRAFXpUUaUE";
